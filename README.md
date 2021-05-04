@@ -7,4 +7,4 @@ Playing Rules: 1) Scissor beats Paper
                2) Paper beats Stone
                3) Stone beats Scissor
 
-Winning Rule: Whoever gets 5 points as earliest as possible will win.(Untill that game needs to be continued)
+Winning Rule: Whoever gets 5 points as early as possible will win.(Untill that game needs to be continued)
